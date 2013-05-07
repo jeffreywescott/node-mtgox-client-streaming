@@ -1,0 +1,16 @@
+{
+  "name": "node-mtgox-client-streaming",
+  "version": "0.1.0",
+  "description": "Mt. Gox (Bitcoin Exchange) Streaming API Client",
+  "main": "mtgox.js",
+  "scripts": {
+    "test": "example.js"
+  },
+  "repository": "",
+  "author": "Jeffrey Wescott",
+  "dependencies" : {
+    "socket.io-client" : "0.9.11",
+    "crypto" : "0.0.3"
+  },
+  "license": "MIT"
+}
